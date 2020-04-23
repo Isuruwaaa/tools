@@ -19,4 +19,6 @@ Features
   2.cd tools
   3.pip install pafy
   4.pip install youtube-dl
-  5.python YT2G.py
+  5.python YT2G.py or
+  Python2 YT2G.py or
+  Python3 YT2G.py
