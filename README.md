@@ -12,3 +12,11 @@ Features
  
  Thanks for using this tool!!!!
  A tool coded by Isuruwaaa
+
+  ()Installation 
+  
+  1.git clone https://github.com/Isuruwaaa/tools
+  2.cd tools
+  3.pip install pafy
+  4.pip install youtube-dl
+  5.python YT2G.py
